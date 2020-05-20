@@ -1,6 +1,7 @@
 # covid-19
 A pygame
 
+         Hello guys,
          This is my first game in python. In fact this is my first game in any language.....
          
          I am hereby writing this only to thank NEC college 'nerds'. 
